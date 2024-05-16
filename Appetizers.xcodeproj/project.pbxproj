@@ -22,6 +22,7 @@
 		DCA500E12BF61A9400E4EE86 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500E02BF61A9400E4EE86 /* Alert.swift */; };
 		DCA500E32BF61F4600E4EE86 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500E22BF61F4600E4EE86 /* LoadingView.swift */; };
 		DCA500E52BF6203600E4EE86 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500E42BF6203600E4EE86 /* Color+Ext.swift */; };
+		DCA500E72BF627DC00E4EE86 /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500E62BF627DC00E4EE86 /* RemoteImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		DCA500E02BF61A9400E4EE86 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		DCA500E22BF61F4600E4EE86 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		DCA500E42BF6203600E4EE86 /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
+		DCA500E62BF627DC00E4EE86 /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				DCA500E02BF61A9400E4EE86 /* Alert.swift */,
 				DCA500E22BF61F4600E4EE86 /* LoadingView.swift */,
 				DCA500E42BF6203600E4EE86 /* Color+Ext.swift */,
+				DCA500E62BF627DC00E4EE86 /* RemoteImage.swift */,
 			);
 			path = Appetizers;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				DCA500E32BF61F4600E4EE86 /* LoadingView.swift in Sources */,
 				DCA500C52BF5F66600E4EE86 /* AppetizerTabView.swift in Sources */,
 				DCA500DB2BF60CB500E4EE86 /* NetworkManager.swift in Sources */,
+				DCA500E72BF627DC00E4EE86 /* RemoteImage.swift in Sources */,
 				DCA500C32BF5F66600E4EE86 /* AppetizersApp.swift in Sources */,
 				DCA500E12BF61A9400E4EE86 /* Alert.swift in Sources */,
 				DCA500D12BF5F6CB00E4EE86 /* AppetizerListView.swift in Sources */,
