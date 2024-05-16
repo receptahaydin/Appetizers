@@ -14,6 +14,7 @@
 		DCA500D12BF5F6CB00E4EE86 /* AppetizerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500D02BF5F6CB00E4EE86 /* AppetizerListView.swift */; };
 		DCA500D32BF5F6D300E4EE86 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500D22BF5F6D300E4EE86 /* AccountView.swift */; };
 		DCA500D52BF5F6DC00E4EE86 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500D42BF5F6DC00E4EE86 /* OrderView.swift */; };
+		DCA500D72BF5FE9700E4EE86 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500D62BF5FE9700E4EE86 /* Appetizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DCA500D02BF5F6CB00E4EE86 /* AppetizerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListView.swift; sourceTree = "<group>"; };
 		DCA500D22BF5F6D300E4EE86 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		DCA500D42BF5F6DC00E4EE86 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		DCA500D62BF5FE9700E4EE86 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				DCA500D02BF5F6CB00E4EE86 /* AppetizerListView.swift */,
 				DCA500D22BF5F6D300E4EE86 /* AccountView.swift */,
 				DCA500D42BF5F6DC00E4EE86 /* OrderView.swift */,
+				DCA500D62BF5FE9700E4EE86 /* Appetizer.swift */,
 			);
 			path = Appetizers;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCA500D72BF5FE9700E4EE86 /* Appetizer.swift in Sources */,
 				DCA500D32BF5F6D300E4EE86 /* AccountView.swift in Sources */,
 				DCA500C52BF5F66600E4EE86 /* AppetizerTabView.swift in Sources */,
 				DCA500C32BF5F66600E4EE86 /* AppetizersApp.swift in Sources */,
