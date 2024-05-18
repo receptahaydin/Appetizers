@@ -11,6 +11,7 @@
 		DC6F6C002BF9436B0038374C /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6F6BFF2BF9436B0038374C /* XDismissButton.swift */; };
 		DC6F6C022BF94C1D0038374C /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6F6C012BF94C1D0038374C /* AccountViewModel.swift */; };
 		DC6F6C042BF94FCD0038374C /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6F6C032BF94FCD0038374C /* String+Ext.swift */; };
+		DC6F6C062BF954C20038374C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6F6C052BF954C20038374C /* User.swift */; };
 		DCA500C32BF5F66600E4EE86 /* AppetizersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500C22BF5F66600E4EE86 /* AppetizersApp.swift */; };
 		DCA500C52BF5F66600E4EE86 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500C42BF5F66600E4EE86 /* AppetizerTabView.swift */; };
 		DCA500C72BF5F66800E4EE86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCA500C62BF5F66800E4EE86 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 		DC6F6BFF2BF9436B0038374C /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 		DC6F6C012BF94C1D0038374C /* AccountViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
 		DC6F6C032BF94FCD0038374C /* String+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
+		DC6F6C052BF954C20038374C /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		DCA500BF2BF5F66600E4EE86 /* Appetizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCA500C22BF5F66600E4EE86 /* AppetizersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizersApp.swift; sourceTree = "<group>"; };
 		DCA500C42BF5F66600E4EE86 /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 			isa = PBXGroup;
 			children = (
 				DCA500D62BF5FE9700E4EE86 /* Appetizer.swift */,
+				DC6F6C052BF954C20038374C /* User.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				DCA500DF2BF618FA00E4EE86 /* AppetizerListViewModel.swift in Sources */,
 				DCA500E52BF6203600E4EE86 /* Color+Ext.swift in Sources */,
 				DCA500D32BF5F6D300E4EE86 /* AccountView.swift in Sources */,
+				DC6F6C062BF954C20038374C /* User.swift in Sources */,
 				DC6F6BFE2BF942870038374C /* APButton.swift in Sources */,
 				DCA500E32BF61F4600E4EE86 /* LoadingView.swift in Sources */,
 				DCA500C52BF5F66600E4EE86 /* AppetizerTabView.swift in Sources */,
