@@ -31,6 +31,7 @@
 		DCA500E52BF6203600E4EE86 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500E42BF6203600E4EE86 /* Color+Ext.swift */; };
 		DCA500E72BF627DC00E4EE86 /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA500E62BF627DC00E4EE86 /* RemoteImage.swift */; };
 		DCB081252BF6B28A009E9639 /* AppetizerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCB081242BF6B28A009E9639 /* AppetizerDetailView.swift */; };
+		DCE28F5F2BFAA6DB009347BD /* CustomModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE28F5E2BFAA6DB009347BD /* CustomModifiers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		DCA500E42BF6203600E4EE86 /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
 		DCA500E62BF627DC00E4EE86 /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 		DCB081242BF6B28A009E9639 /* AppetizerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerDetailView.swift; sourceTree = "<group>"; };
+		DCE28F5E2BFAA6DB009347BD /* CustomModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifiers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 				DCB081232BF6B1A2009E9639 /* Image */,
 				DCB081222BF6B19D009E9639 /* Cells */,
 				DCB081212BF6B195009E9639 /* UIKit Components */,
+				DCE28F5E2BFAA6DB009347BD /* CustomModifiers.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				DCA500C32BF5F66600E4EE86 /* AppetizersApp.swift in Sources */,
 				DCA500E12BF61A9400E4EE86 /* Alert.swift in Sources */,
 				DCA500D12BF5F6CB00E4EE86 /* AppetizerListView.swift in Sources */,
+				DCE28F5F2BFAA6DB009347BD /* CustomModifiers.swift in Sources */,
 				DCB081252BF6B28A009E9639 /* AppetizerDetailView.swift in Sources */,
 				DCA500D52BF5F6DC00E4EE86 /* OrderView.swift in Sources */,
 			);
